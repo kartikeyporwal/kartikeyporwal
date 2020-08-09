@@ -9,7 +9,7 @@
 ---
 
 ### Connect with me:
-[<img align="left" alt="Kartikey Porwal | LinkedIn" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kartikey Porwal | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -22,19 +22,19 @@
 
 ### Languages
 
-[<img align="left" alt="Python" width="28px" src="https://avatars0.githubusercontent.com/u/1525981" />][python]
+[<img align="left" alt="Python" width="30px" src="https://avatars0.githubusercontent.com/u/1525981" />][python]
 
 
-[<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
-[<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 
-[<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 
-[<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
 
-[<img align="left" alt="Markdown" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
+[<img align="left" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
 
 
 
@@ -45,16 +45,16 @@
 
 ### Libraries
 
-[<img align="left" alt="Numpy" width="28px" src="https://numpy.org/images/logos/numpy.svg" />][numpy]
+[<img align="left" alt="Numpy" width="30px" src="https://numpy.org/images/logos/numpy.svg" />][numpy]
 
-[<img align="left" alt="OpenCV" width="28px" src="https://avatars1.githubusercontent.com/u/5009934?" />][opencv]
+[<img align="left" alt="OpenCV" width="30px" src="https://avatars1.githubusercontent.com/u/5009934?" />][opencv]
 
-[<img align="left" alt="Pandas" width="28px" src="https://avatars1.githubusercontent.com/u/21206976?" />][pandas]
+[<img align="left" alt="Pandas" width="30px" src="https://avatars1.githubusercontent.com/u/21206976?" />][pandas]
 
-[<img align="left" alt="Tensorflow" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
+[<img align="left" alt="Tensorflow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
 
 
-[<img align="left" alt="PyTorch" width="28px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
+[<img align="left" alt="PyTorch" width="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
 
 <br />
 <br />
@@ -62,11 +62,11 @@
 
 ### Visualization Libraries
 
-[<img align="left" alt="Matplotlib" width="28px" src="https://matplotlib.org/_static/logo2_compressed.svg" />][matplotlib]
+[<img align="left" alt="Matplotlib" width="50px" src="https://matplotlib.org/_static/logo2_compressed.svg" />][matplotlib]
 
 
 
-[<img align="left" alt="D3.js" width="28px" src="https://camo.githubusercontent.com/722a5cc12c7d40231ebeb8ca6facdc8547e2abf7/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" />][d3js]
+[<img align="left" alt="D3.js" width="30px" src="https://camo.githubusercontent.com/722a5cc12c7d40231ebeb8ca6facdc8547e2abf7/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" />][d3js]
 
 
 <br />
@@ -74,11 +74,11 @@
 
 ### Framework
 
-[<img align="left" alt="Flask" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
+[<img align="left" alt="Flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
 
-[<img align="left" alt="Kivy" width="28px" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" />][kivy]
+[<img align="left" alt="Kivy" width="30px" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" />][kivy]
 
-[<img align="left" alt="Selenium" width="28px" src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" />][selenium]
+[<img align="left" alt="Selenium" width="30px" src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" />][selenium]
 
 <br />
 <br />
@@ -87,7 +87,7 @@
 ### IDE
 
 
-[<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 <br />
 <br />
@@ -95,33 +95,33 @@
 ### Tools
 
 
-[<img align="left" alt="Jupyter Notebook" width="28px" src="https://avatars1.githubusercontent.com/u/7388996" />][jupyter]
+[<img align="left" alt="Jupyter Notebook" width="30px" src="https://avatars1.githubusercontent.com/u/7388996" />][jupyter]
 
 [<img align="left" alt="NVIDIA CUDA" width="38px" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" />][cuda]
 
-[<img align="left" alt="FFMPEG" width="28px" src="https://avatars2.githubusercontent.com/u/729418?" />][ffmpeg]
+[<img align="left" alt="FFMPEG" width="30px" src="https://avatars2.githubusercontent.com/u/729418?" />][ffmpeg]
 
 
-[<img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 
-[<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
-[<img align="left" alt="GitHub" width="28px" src="https://avatars1.githubusercontent.com/u/9919?" />][github]
-
-
+[<img align="left" alt="GitHub" width="30px" src="https://avatars1.githubusercontent.com/u/9919?" />][github]
 
 
 
-[<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 
-[<img align="left" alt="Docker" width="28px" src="https://avatars0.githubusercontent.com/u/5429470?" />][docker]
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
-[<img align="left" alt="Microsoft Excel" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" />][excel]
 
-[<img align="left" alt="Powerpoint" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_PowerPoint_%282018%E2%80%93present%29.svg" />][powerpoint]
+[<img align="left" alt="Docker" width="30px" src="https://avatars0.githubusercontent.com/u/5429470?" />][docker]
 
-[<img align="left" alt="Docs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Google_Docs_logo.svg" />][docs]
+[<img align="left" alt="Microsoft Excel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" />][excel]
+
+[<img align="left" alt="Powerpoint" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_PowerPoint_%282018%E2%80%93present%29.svg" />][powerpoint]
+
+[<img align="left" alt="Docs" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Google_Docs_logo.svg" />][docs]
 
 
 
@@ -133,13 +133,13 @@
 
 ### OS
 
-[<img align="left" alt="Linux" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
+[<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 
-[<img align="left" alt="Ubuntu" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
+[<img align="left" alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
 
-[<img align="left" alt="CentOS" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" />][centos]
+[<img align="left" alt="CentOS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" />][centos]
 
-[<img align="left" alt="Windows" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg" />][windows]
+[<img align="left" alt="Windows" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg" />][windows]
 
 
 
