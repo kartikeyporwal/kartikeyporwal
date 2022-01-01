@@ -1,9 +1,9 @@
 ### Hi there, I'm Kartikey 👋
-<h3 align="center">A Software Engineer & Deep Learning enthusiast from India</h3>
+<h3 align="center">A Software Engineer & Deep Learning practitioner from India</h3>
 
 - 🌱 I’m currently learning everything that I've written in [Languages and Tools Section](#Languages-and-Tools-I-have-used) 🤣
 - ⚡ My Interest: Computer Vision, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization, Web Scraping, Python Scripting, Audio/Video Processing
-- 🥅 2020 Goals: Become better person, better developer, open source contributer and explore latest researches in computer vision
+- 🥅 2022 Goals: Become better person, better developer, open source contributer and explore latest researches in computer vision
 - 📫 How to reach me: kartikey.porwal@gmail.com
 
 ---
