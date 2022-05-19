@@ -7,11 +7,11 @@
 
 - ⚡ My Interest: **Backend Development, Computer Vision, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization, Web Scraping, Python Scripting, Audio/Video Processing, Open Source**
 
-- 👯 I’m looking to collaborate on **anything python and/or open source**
+- 👯 I’m looking to collaborate on **anything python and/or open-source**
 
-- 💬 Ask me about **python, docker, ffmpeg, opensource**
+- 💬 Ask me about **python, docker, FFmpeg, opensource**
 
-- 🥅 2022 Goals: Become better person, better developer, open source contributer and explore latest researches in AI domain
+- 🥅 2022 Goals: Become a better person, better developer, and open-source contributor and explore the latest research in the AI domain
 
 - 📫 How to reach me **kartikey.porwal@gmail.com**
 
