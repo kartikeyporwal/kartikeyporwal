@@ -1,19 +1,30 @@
 ### Hi there, I'm Kartikey 👋
 <h3 align="center">A Software Engineer & Deep Learning practitioner from India</h3>
 
-- 🌱 I’m currently learning everything that I've written in [Languages and Tools Section](#Languages-and-Tools-I-have-used) 🤣
-- ⚡ My Interest: Computer Vision, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization, Web Scraping, Python Scripting, Audio/Video Processing
-- 🥅 2022 Goals: Become better person, better developer, open source contributer and explore latest researches in computer vision
-- 📫 How to reach me: kartikey.porwal@gmail.com
+
+- 🌱 I’m currently learning **MLOps**
+
+- ⚡ My Interest: **Backend Development, Computer Vision, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization, Web Scraping, Python Scripting, Audio/Video Processing, Open Source**
+
+- 👯 I’m looking to collaborate on **anything python and/or open source**
+
+- 💬 Ask me about **python, docker, ffmpeg, opensource**
+
+- 🥅 2022 Goals: Become better person, better developer, open source contributer and explore latest researches in AI domain
+
+- 📫 How to reach me **kartikey.porwal@gmail.com**
+
+- ⚡ Fun fact **Python lives on land because it's above C-level**
 
 ---
 
-### Connect with me:
-[<img align="left" alt="Kartikey Porwal | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kartikeyporwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kartikeyporwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeyporwal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9734163/kartikey-porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9734163" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kartikey_porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikey_porwal" height="30" width="40" /></a>
+</p>
 
 
 ---
@@ -45,7 +56,7 @@
 
 ### Libraries
 
-[<img align="left" alt="Numpy" width="30px" src="https://numpy.org/images/logos/numpy.svg" />][numpy]
+[<img align="left" alt="Numpy" width="30px" src="https://numpy.org/images/logo.svg" />][numpy]
 
 [<img align="left" alt="OpenCV" width="30px" src="https://avatars1.githubusercontent.com/u/5009934?" />][opencv]
 
@@ -62,7 +73,7 @@
 
 ### Visualization Libraries
 
-[<img align="left" alt="Matplotlib" width="50px" src="https://matplotlib.org/_static/logo2_compressed.svg" />][matplotlib]
+[<img align="left" alt="Matplotlib" width="90px" src="https://matplotlib.org/_static/logo2_compressed.svg" />][matplotlib]
 
 
 
@@ -72,9 +83,12 @@
 <br />
 <br />
 
-### Framework
+### Frameworks
 
-[<img align="left" alt="Flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
+[<img align="left" alt="Flask" width="35px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />][flask]
+
+[<img align="left" alt="Django REST" width="80px" src="https://www.django-rest-framework.org/img/logo.png" />][django_rest]
+
 
 [<img align="left" alt="Kivy" width="30px" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" />][kivy]
 
@@ -84,13 +98,33 @@
 <br />
 
 
-### IDE
+### IDEs
 
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 <br />
 <br />
+
+### Databases
+
+[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][mysql]
+
+
+[<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgresql]
+
+
+[<img align="left" alt="Mariadb" width="30px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" />][mariadb]
+
+[<img align="left" alt="Mongodb" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
+
+[<img align="left" alt="Redis" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />][redis]
+
+
+
+<br />
+<br />
+
 
 ### Tools
 
@@ -102,36 +136,37 @@
 [<img align="left" alt="FFMPEG" width="30px" src="https://avatars2.githubusercontent.com/u/729418?" />][ffmpeg]
 
 
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
 
 [<img align="left" alt="GitHub" width="30px" src="https://avatars1.githubusercontent.com/u/9919?" />][github]
 
 
 
-
-
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
+[<img align="left" alt="Bash" width="30px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />][bash]
 
-[<img align="left" alt="Docker" width="30px" src="https://avatars0.githubusercontent.com/u/5429470?" />][docker]
 
-[<img align="left" alt="Microsoft Excel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" />][excel]
 
-[<img align="left" alt="Powerpoint" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_PowerPoint_%282018%E2%80%93present%29.svg" />][powerpoint]
-
-[<img align="left" alt="Docs" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Google_Docs_logo.svg" />][docs]
-
+[<img align="left" alt="Docker" width="40px" src="https://avatars0.githubusercontent.com/u/5429470?" />][docker]
 
 
 [<img align="left" alt="SPHINX" width="30px" src="https://avatars2.githubusercontent.com/u/31936682?" />][sphinx]
 
 
+
+[<img align="left" alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][postman]
+
+
+[<img align="left" alt="NGINX" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][nginx]
+  
+
+
 <br />
 <br />
 
-### OS
+
+### OSs
 
 [<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 
@@ -139,7 +174,23 @@
 
 [<img align="left" alt="CentOS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" />][centos]
 
-[<img align="left" alt="Windows" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg" />][windows]
+
+[<img align="left" alt="Windows" width="90px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/250px-Windows_logo_and_wordmark_-_2021.svg.png" />][windows]
+
+
+<br />
+<br />
+
+
+### Deployments
+
+[<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
+
+[<img align="left" alt="Heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />][heroku]
+
+[<img align="left" alt="Oracle Cloud" width="30px" src="https://www.oracle.com/a/ocom/img/oracle-social-share-fb.jpg" />][oci]
+
+
 
 
 
@@ -163,6 +214,8 @@ Note: I am not proficient in all of the languages/libraries/tools that I mention
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyporwal&show_icons=true&hide_border=true&theme=radical)](https://github.com/kartikeyporwal)
 
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kartikeyporwal&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&" alt="kartikeyporwal" /></p>
+
 
 [github]: https://github.com/kartikeyporwal
 [linkedin]: https://www.linkedin.com/in/kartikeyporwal/
@@ -173,10 +226,14 @@ Note: I am not proficient in all of the languages/libraries/tools that I mention
 [ffmpeg]: https://github.com/FFmpeg/FFmpeg
 [pandas]: https://github.com/pandas-dev/pandas
 [mysql]: https://dev.mysql.com/
+[postgresql]: https://www.postgresql.org
+[mariadb]: https://mariadb.org/
+[mongodb]: https://www.mongodb.com/
 [git]: https://github.com/git/git
 [svn]: https://github.com/apache/subversion
 [github]: https://github.com/
 [terminal]: https://github.com/topics/terminal
+[bash]: https://www.gnu.org/software/bash/
 [tensorflow]: https://github.com/tensorflow/tensorflow
 [pytorch]: https://github.com/pytorch/pytorch
 [numpy]: https://github.com/numpy/numpy
@@ -200,3 +257,10 @@ Note: I am not proficient in all of the languages/libraries/tools that I mention
 [docs]: https://docs.google.com/
 [cuda]: https://developer.nvidia.com/cuda-zone
 [sphinx]: https://www.sphinx-doc.org/en/master/
+[django_rest]: https://www.django-rest-framework.org/
+[redis]: https://redis.io
+[postman]: https://postman.com
+[nginx]: https://www.nginx.com
+[aws]: https://aws.amazon.com
+[heroku]: https://heroku.com
+[oci]: https://www.oracle.com/in/cloud/
