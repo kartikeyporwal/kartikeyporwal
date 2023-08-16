@@ -1,5 +1,5 @@
 ### Hi there, I'm Kartikey 👋
-<h3 align="center">A Software Engineer & Deep Learning practitioner from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/kartikeyporwal" target="blank"><img src="https://img.shields.io/twitter/follow/kartikeyporwal?logo=twitter&style=for-the-badge" alt="kartikey" /></a> </p>
 
