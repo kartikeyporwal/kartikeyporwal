@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kartikeyporwal" target="blank"><img src="https://img.shields.io/twitter/follow/kartikeyporwal?logo=twitter&style=for-the-badge" alt="kartikey" /></a> </p>
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Kubernetes** and **React**
 
 - ⚡ My Interest: **Backend Development, Computer Vision, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization, Web Scraping, Python Scripting, Audio/Video Processing, Open Source**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, docker, FFmpeg, opensource**
 
-- 🥅 2022 Goals: Become a better person, better developer, and open-source contributor and explore the latest research in the AI domain
+- 🥅 2023 Goals: Become a better developer
 
 - 📫 How to reach me **kartikey.porwal@gmail.com**
 
@@ -22,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kartikeyporwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartikeyporwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeyporwal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9734163/kartikey-porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9734163" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kartikey_porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikey_porwal" height="30" width="40" /></a>
 </p>
@@ -178,6 +177,9 @@
 
 [<img align="left" alt="NGINX" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][nginx]
   
+[<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" />][kubernetes]
+
+[<img align="left" alt="Terraform" width="30px" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png" />][terraform]
 
 
 <br />
@@ -280,6 +282,8 @@ Note: I am not proficient in all of the languages/libraries/tools that I mention
 [redis]: https://redis.io
 [postman]: https://postman.com
 [nginx]: https://www.nginx.com
+[kubernetes]: https://github.com/kubernetes/kubernetes
+[terraform]: https://github.com/hashicorp/terraform
 [aws]: https://aws.amazon.com
 [heroku]: https://heroku.com
 [oci]: https://www.oracle.com/in/cloud/
