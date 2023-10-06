@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **Kubernetes** and **React**
 
-- ⚡ My Interest: **Backend Development, Computer Vision, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization, Web Scraping, Python Scripting, Audio/Video Processing, Open Source**
+- ⚡ My Interest: **Computer Vision, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization, Audio/Video Processing, Open Source**
 
 - 👯 I’m looking to collaborate on **anything python and/or open-source**
 
 - 💬 Ask me about **python, docker, FFmpeg, opensource**
 
 - 🥅 2023 Goals: Become a better developer
-
-- 📫 How to reach me **kartikey.porwal@gmail.com**
 
 - ⚡ Fun fact **Python lives on land because it's above C-level**
 
