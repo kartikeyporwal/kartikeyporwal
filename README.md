@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/kartikeyporwal" target="blank"><img src="https://img.shields.io/twitter/follow/kartikeyporwal?logo=twitter&style=for-the-badge" alt="kartikey" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes** and **React**
 
 - ⚡ My Interest: **Computer Vision, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization, Audio/Video Processing, Open Source**
 
