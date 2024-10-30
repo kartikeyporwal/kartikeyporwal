@@ -1,10 +1,10 @@
-### Hi there, I'm Kartikey 👋
+### Hola, soy Kartikey 👋
 <h3 align="center">A Software Engineer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/kartikeyporwal" target="blank"><img src="https://img.shields.io/twitter/follow/kartikeyporwal?logo=twitter&style=for-the-badge" alt="kartikey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kartikeyporwal" target="blank"><img src="https://img.shields.io/twitter/follow/kartikeyporwal?logo=twitter&style=for-the-badge" alt="kartikey_twitter" /></a> </p>
 
 
-- ⚡ My Interest: **Backend, Audio/Video Processing, Open Source, Computer Vision, Web Scraping, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization**
+- ⚡ My Interest: **Backend Development, Audio/Video Processing, Open Source, Computer Vision, Web Scraping, Python Scripting, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization**
 
 - 👯 I’m looking to collaborate on **anything python and/or open-source**
 
@@ -12,15 +12,22 @@
 
 - 🥅 2024 Goals: Become a better developer
 
+- 📫 How to reach me **kartikey.porwal@gmail.com**
+
 - ⚡ Fun fact **Python lives on land because it's above C-level**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kartikeyporwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9734163/kartikey-porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9734163" height="30" width="40" /></a>
+<a href="https://github.com/kartikeyporwal" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/9919" alt="kartikey_github" height="30" width="40" /></a>
+<a href="https://gitlab.com/kartikeyporwal" target="blank"><img align="center" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" alt="kartikey_gitlab" height="30" width="40" /></a>  
+<a href="https://x.com/kartikeyporwal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="kartikey_twitter" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9734163/kartikey-porwal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="kartikey_stackoverflow" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kartikeyporwal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="kartikeyporwal" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/kartikey_porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikey_porwal" height="30" width="40" /></a>
+
+  
 </p> -->
 
 
@@ -53,6 +60,8 @@
 
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
+[<img align="left" alt="Bash Script" width="30px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />][bash]
+
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -78,7 +87,6 @@
 
 [<img align="left" alt="Tensorflow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
 
-
 [<img align="left" alt="PyTorch" width="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
 
 <br />
@@ -91,7 +99,7 @@
 
 
 
-[<img align="left" alt="D3.js" width="30px" src="https://camo.githubusercontent.com/722a5cc12c7d40231ebeb8ca6facdc8547e2abf7/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" />][d3js]
+[<img align="left" alt="D3.js" width="30px" src="https://github.com/d3/d3/blob/main/docs/public/logo.svg" />][d3js]
 
 
 <br />
@@ -106,7 +114,10 @@
 
 [<img align="left" alt="Kivy" width="30px" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" />][kivy]
 
-[<img align="left" alt="Selenium" width="30px" src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" />][selenium]
+[<img align="left" alt="Selenium" width="30px" src="https://github.com/SeleniumHQ/selenium/blob/trunk/common/images/selenium_logo_mark_green.svg" />][selenium]
+
+[<img align="left" alt="Playwright" width="30px" src="https://playwright.dev/img/playwright-logo.svg" />][playwright]
+
 
 <br />
 <br />
@@ -122,11 +133,11 @@
 
 ### Databases
 
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][mysql]
-
-
 [<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgresql]
 
+[<img align="left" alt="Clickhouse" width="30px" src="https://avatars.githubusercontent.com/u/54801242" />][clickhouse]
+
+[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][mysql]
 
 [<img align="left" alt="Mariadb" width="30px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" />][mariadb]
 
@@ -139,6 +150,32 @@
 <br />
 <br />
 
+### Version Control
+
+[<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
+
+[<img align="left" alt="SVN" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_Subversion_logo.svg" />][svn]
+
+
+[<img align="left" alt="GitHub" width="30px" src="https://avatars1.githubusercontent.com/u/9919" />][github_tool]
+
+[<img align="left" alt="Gitlab" width="30px" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" />][gitlab_tool]
+
+
+
+<br />
+<br />
+
+### Profiling
+
+[<img align="left" alt="Memray" width="80px" src="https://raw.githubusercontent.com/bloomberg/memray/main/docs/_static/images/logo.png" />][memray]
+
+[<img align="left" alt="Scalene" width="80px" src="https://raw.githubusercontent.com/plasma-umass/scalene/master/docs/scalene-icon-white.png" />][scalene]
+
+
+
+<br />
+<br />
 
 ### Tools
 
@@ -149,35 +186,29 @@
 
 [<img align="left" alt="FFMPEG" width="30px" src="https://avatars2.githubusercontent.com/u/729418?" />][ffmpeg]
 
-
-[<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
-
-[<img align="left" alt="GitHub" width="30px" src="https://avatars1.githubusercontent.com/u/9919?" />][github]
-
+[<img align="left" alt="PyAV" width="30px" src="https://avatars.githubusercontent.com/u/64333260" />][pyav]
 
 
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-
-[<img align="left" alt="Bash" width="30px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />][bash]
-
-
-
-[<img align="left" alt="Docker" width="40px" src="https://avatars0.githubusercontent.com/u/5429470?" />][docker]
 
 
 [<img align="left" alt="SPHINX" width="30px" src="https://avatars2.githubusercontent.com/u/31936682?" />][sphinx]
 
 
-
 [<img align="left" alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][postman]
 
+[<img align="left" alt="K8slens" width="30px" src="https://docs.k8slens.dev/img/lens-logo-icon.svg" />][k8slens]
 
-[<img align="left" alt="NGINX" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][nginx]
-  
-[<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" />][kubernetes]
+[<img align="left" alt="Dbeaver" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />][dbeaver]
 
-[<img align="left" alt="Terraform" width="30px" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png" />][terraform]
 
+[<img align="left" alt="Sentry" width="30px" src="https://seeklogo.com/images/S/sentry-logo-36928B74C1-seeklogo.com.png" />][sentry]
+
+[<img align="left" alt="Notion" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />][notion]
+
+[<img align="left" alt="ClickUp" width="30px" src="https://clickup.com/images/for-se-page/clickup.png" />][clickup]
+
+[<img align="left" alt="Firebase" width="30px" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" />][firebase]
 
 <br />
 <br />
@@ -198,8 +229,33 @@
 <br />
 <br />
 
+### Deployment
 
-### Deployments
+[<img align="left" alt="Gunicorn" width="80px" src="https://gunicorn.org/images/logo.jpg" />][gunicorn]
+
+[<img align="left" alt="NGINX" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][nginx]
+
+[<img align="left" alt="NCHAN" width="50px" src="https://github.com/slact/nchan/blob/master/nchan_logo.png" />][nchan]
+
+[<img align="left" alt="Traefik" width="50px" src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefik.logo.png" />][traefik]
+
+[<img align="left" alt="Docker" width="40px" src="https://avatars0.githubusercontent.com/u/5429470?" />][docker]
+
+[<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" />][kubernetes]
+
+[<img align="left" alt="Terraform" width="30px" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png" />][terraform]
+
+
+
+
+
+
+
+<br />
+<br />
+<br />
+
+### Cloud
 
 [<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
 
@@ -217,7 +273,7 @@
 <br />
 
 
-PS: I am not proficient in all of the languages/libraries/tools that I mentioned here but I have used them to some or more extent.
+Note: The languages, libraries, and tools listed here reflect some of the technologies I have worked with to varying extents, from foundational familiarity to proficient usage.
 
 
 ---
@@ -236,20 +292,24 @@ PS: I am not proficient in all of the languages/libraries/tools that I mentioned
 
 
 [github]: https://github.com/kartikeyporwal
+[gitlab]: https://gitlab.com/kartikeyporwal
 [linkedin]: https://www.linkedin.com/in/kartikeyporwal/
 [vscode]: https://github.com/microsoft/vscode
 [python]: https://www.python.org/
 [jupyter]: https://jupyter.org/
 [opencv]: https://github.com/opencv/opencv
 [ffmpeg]: https://github.com/FFmpeg/FFmpeg
+[pyav]: https://github.com/PyAV-Org/PyAV
 [pandas]: https://github.com/pandas-dev/pandas
 [mysql]: https://dev.mysql.com/
 [postgresql]: https://www.postgresql.org
 [mariadb]: https://mariadb.org/
 [mongodb]: https://www.mongodb.com/
+[clickhouse]: https://github.com/ClickHouse/ClickHouse
 [git]: https://github.com/git/git
 [svn]: https://github.com/apache/subversion
-[github]: https://github.com/
+[github_tool]: https://github.com/
+[gitlab_tool]: https://gitlab.com/
 [terminal]: https://github.com/topics/terminal
 [bash]: https://www.gnu.org/software/bash/
 [tensorflow]: https://github.com/tensorflow/tensorflow
@@ -269,6 +329,7 @@ PS: I am not proficient in all of the languages/libraries/tools that I mentioned
 [markdown]: https://github.com/topics/markdown
 [flask]: https://github.com/pallets/flask
 [selenium]: https://github.com/SeleniumHQ/selenium
+[playwright]: https://github.com/microsoft/playwright
 [kivy]: https://github.com/kivy/kivy
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel
 [powerpoint]: https://www.microsoft.com/en-in/microsoft-365/powerpoint
@@ -280,7 +341,18 @@ PS: I am not proficient in all of the languages/libraries/tools that I mentioned
 [postman]: https://postman.com
 [nginx]: https://www.nginx.com
 [kubernetes]: https://github.com/kubernetes/kubernetes
+[k8slens]: https://github.com/lensapp/lens
+[dbeaver]: https://github.com/dbeaver/dbeaver
 [terraform]: https://github.com/hashicorp/terraform
 [aws]: https://aws.amazon.com
 [heroku]: https://heroku.com
 [oci]: https://www.oracle.com/in/cloud/
+[traefik]: https://github.com/traefik/traefik
+[nchan]: https://github.com/slact/nchan
+[gunicorn]: https://github.com/benoitc/gunicorn
+[clickup]: https://clickup.com/
+[notion]: https://www.notion.so/
+[sentry]: https://sentry.io/
+[firebase]: https://firebase.google.com/
+[scalene]: https://github.com/plasma-umass/scalene
+[memray]: https://github.com/bloomberg/memray
