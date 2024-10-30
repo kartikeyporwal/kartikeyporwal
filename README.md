@@ -4,13 +4,13 @@
 <p align="left"> <a href="https://twitter.com/kartikeyporwal" target="blank"><img src="https://img.shields.io/twitter/follow/kartikeyporwal?logo=twitter&style=for-the-badge" alt="kartikey" /></a> </p>
 
 
-- ⚡ My Interest: **Computer Vision, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization, Audio/Video Processing, Open Source**
+- ⚡ My Interest: **Backend, Audio/Video Processing, Open Source, Computer Vision, Web Scraping, Natural Language Processing, Data Exploration, Data Wrangling, Data Visualization**
 
 - 👯 I’m looking to collaborate on **anything python and/or open-source**
 
 - 💬 Ask me about **python, docker, FFmpeg, opensource**
 
-- 🥅 2023 Goals: Become a better developer
+- 🥅 2024 Goals: Become a better developer
 
 - ⚡ Fun fact **Python lives on land because it's above C-level**
 
@@ -20,8 +20,8 @@
 <p align="left">
 <a href="https://twitter.com/kartikeyporwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9734163/kartikey-porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9734163" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikey_porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikey_porwal" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://www.hackerrank.com/kartikey_porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikey_porwal" height="30" width="40" /></a>
+</p> -->
 
 
 ---
@@ -49,14 +49,14 @@
 
 [<img align="left" alt="Python" width="30px" src="https://avatars0.githubusercontent.com/u/1525981" />][python]
 
-
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
 
 [<img align="left" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
@@ -217,7 +217,7 @@
 <br />
 
 
-Note: I am not proficient in all of the languages/libraries/tools that I mentioned here but I have used them to some or more extent.
+PS: I am not proficient in all of the languages/libraries/tools that I mentioned here but I have used them to some or more extent.
 
 
 ---
